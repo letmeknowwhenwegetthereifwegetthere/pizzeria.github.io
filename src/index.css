@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  ;
+  }
+
+.logo-nombre{
+  color: white;
+  text-decoration: none;
+}
+
+h4:hover{
+color:rgb(255, 0, 0);
+}
+
+.banner {
+  background-image: url('https://fondosmil.com/fondo/65863.jpg');  
+  height: 40vh;
+  background-position: center;
+}
+
+.hero-text {
+  color: white;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
+}
+
+
